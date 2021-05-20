@@ -19,4 +19,4 @@
 (Any constraints you have, e.g. specific dates)
 (Condicionantes, por ejemplo una fecha específica)
 
-# Date you are available / Disponibilidad
+# Dates you are available / Disponibilidad
